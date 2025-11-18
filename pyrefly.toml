@@ -1,0 +1,6 @@
+project-includes = ["comms/torchcomms/**/*"]
+project-excludes = [
+    "**/node_modules",
+    "**/__pycache__",
+    "**/*venv/**/*",
+]
